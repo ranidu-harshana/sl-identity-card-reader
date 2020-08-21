@@ -6,7 +6,7 @@ import re
 window = Tk()
 window.title("Identity Card Reader")
 window.resizable(0,0)
-
+dfgdf
 window_width = 360
 window_height = 270
 
